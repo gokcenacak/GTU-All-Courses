@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArrayList"},{"p":"<Unnamed>","l":"BMXComparator"},{"p":"<Unnamed>","l":"Color"},{"p":"<Unnamed>","l":"EUCComparator"},{"p":"<Unnamed>","l":"ImageProcessor"},{"p":"<Unnamed>","l":"LEXComparator"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"PriorityQueue"}]
