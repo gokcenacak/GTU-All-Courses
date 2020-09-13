@@ -1,0 +1,6 @@
+bigram very
+tfidf coffee 0001978
+bigram world
+bigram costs
+bigram is
+tfidf Brazil 0000178

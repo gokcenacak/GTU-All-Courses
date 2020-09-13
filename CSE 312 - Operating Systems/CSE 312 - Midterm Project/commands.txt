@@ -1,0 +1,12 @@
+./makeFileSystem 1 30 fileSystem.data
+./fileSystemOper fileSystem.data mkdir "/usr"
+./fileSystemOper fileSystem.data mkdir "/usr/bin"
+./fileSystemOper fileSystem.data rmdir "/usr/bin"
+./fileSystemOper fileSystem.data write "/usr/bin/file1" linuxFile.data
+./fileSystemOper fileSystem.data write "/usr/bin/file2" linuxFile.data
+./fileSystemOper fileSystem.data mkdir "/usr/bin/test"
+./fileSystemOper fileSystem.data read "/usr/bin/file1" linuxFile2.data
+./fileSystemOper fileSystem.data list "/usr"
+./fileSystemOper fileSystem.data dumpe2fs
+./fileSystemOper fileSystem.data del "/usr/bin/file1"
+

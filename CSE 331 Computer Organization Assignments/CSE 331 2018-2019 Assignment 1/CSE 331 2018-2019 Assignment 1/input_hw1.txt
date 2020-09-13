@@ -1,2 +1,0 @@
-There are 3 apples, 12 oranges in the kitchen. 7 eggs also. TL 2.45 remaining money. 
-The number you provide must be in between 0 and 5. 9 is an invalid entry. 10 is also an invalid entry.

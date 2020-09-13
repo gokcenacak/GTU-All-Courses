@@ -1,0 +1,3 @@
+-There are no visible errors.
+-To see data block and directory block contents, print functions in their corresponding classes has a commented section. It can be removed.
+-fileSystem.data is created with 1kb block size and 30 free i-nodes.
