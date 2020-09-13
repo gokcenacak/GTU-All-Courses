@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384944983916",
+    "firebase_url": "https://pati-352b3.firebaseio.com",
+    "project_id": "pati-352b3",
+    "storage_bucket": "pati-352b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384944983916:android:0e9204d8c43a2774812d49",
+        "android_client_info": {
+          "package_name": "com.gokceerer.pati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384944983916-0qec3a2749mu39gklmlb4b0cgcsn12nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPNudYi-o19Gp4HZZz5B0OAwE25meWt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384944983916-0qec3a2749mu39gklmlb4b0cgcsn12nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

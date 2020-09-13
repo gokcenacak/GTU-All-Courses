@@ -1,0 +1,50 @@
+name: pati
+description: Pati
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.1
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/NunitoSans-Black.ttf
+        - asset: assets/fonts/NunitoSans-BlackItalic.ttf
+        - asset: assets/fonts/NunitoSans-Bold.ttf
+        - asset: assets/fonts/NunitoSans-BoldItalic.ttf
+        - asset: assets/fonts/NunitoSans-ExtraBold.ttf
+        - asset: assets/fonts/NunitoSans-ExtraBoldItalic.ttf
+        - asset: assets/fonts/NunitoSans-ExtraLight.ttf
+        - asset: assets/fonts/NunitoSans-ExtraLightItalic.ttf
+        - asset: assets/fonts/NunitoSans-Italic.ttf
+        - asset: assets/fonts/NunitoSans-Light.ttf
+        - asset: assets/fonts/NunitoSans-LightItalic.ttf
+        - asset: assets/fonts/NunitoSans-Regular.ttf
+        - asset: assets/fonts/NunitoSans-SemiBold.ttf
+        - asset: assets/fonts/NunitoSans-SemiBoldItalic.ttf
+    - family: Mitr
+      fonts:
+        - asset: assets/fonts/Mitr-Bold.ttf
+        - asset: assets/fonts/Mitr-ExtraLight.ttf
+        - asset: assets/fonts/Mitr-Light.ttf
+        - asset: assets/fonts/Mitr-Medium.ttf
+        - asset: assets/fonts/Mitr-Regular.ttf
+        - asset: assets/fonts/Mitr-Semibold.ttf
+
+  assets:
+    - assets/cat.png
+    - assets/app_logo.png
